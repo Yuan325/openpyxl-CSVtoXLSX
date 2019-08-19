@@ -11,7 +11,7 @@ I am thinking of sending out multiple database information from SQL server to a 
 However, SQL doesn't output workbook in such format.
 
 ### WHAT DO YOU NEED?
-Before running this, I call on SQL query and output it into .csv file using .cmd
+Before running this, I call on SQL query and output it into .csv file using batch file
 
 ```
 set YYYY=%date:~10,4%
